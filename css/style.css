@@ -12,7 +12,6 @@ header{
     margin: 0px;
     background-image: url("../mare-ge1cdd23fe_1280.jpg");
     background-position:center;
-    background-repeat: inherit;
     align-items: center;
     background-attachment: scroll;
     margin-top: 5%;
@@ -22,7 +21,7 @@ header{
 p{
     padding-left: 1.5em;
     padding-right: 1.5em;
-    font-size: 80px;
+    font-size: 45px;
 }
 .bogdan{
     font-family: segoe print;
