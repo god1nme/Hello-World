@@ -1,2 +1,29 @@
-body{ text-align: center;
+html,body{ 
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    font-size: 100px;
+}
+
+header{ 
+    max-width: 100%;
+    width: 100%;
+    height: 300px;
+    margin: 0px;
+    background-image: url("../mare-ge1cdd23fe_1280.jpg");
+    background-position:center;
+    background-repeat: inherit;
+    align-items: center;
+    background-attachment: scroll;
+    margin-top: 5%;
+    background-size: 100%;
+}
+p{
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    font-size: 80px;
+}
+.bogdan{
+    font-family: segoe print;
+    font-weight: thin;
 }
